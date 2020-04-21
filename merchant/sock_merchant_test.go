@@ -29,7 +29,7 @@ func Test_Input_Number_4_Array_Number_Should_Be_2(t *testing.T) {
 }
 
 func Test_Input_Number_10_Array_Number_Should_Be_2(t *testing.T) {
-	expected := 2
+	expected := 4
 
 	number := 10
 	arrayNumber := []int{1, 1, 3, 1, 2, 1, 3, 3, 3, 3}
