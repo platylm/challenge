@@ -1,4 +1,4 @@
-module sock/merchant
+module problem
 
 go 1.12
 
